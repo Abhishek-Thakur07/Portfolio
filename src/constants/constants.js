@@ -13,7 +13,7 @@ export const projects = [
     title: "Stopwatch",
     description:
       "Build using React technology to imitate the functionaties of a stopwatch.",
-    image: "/images/Screenshot 2021-08-09 153032.png",
+    image: "/images/2.jpg",
     tags: ["React", "Javascript"],
     source: "https://github.com/Abhishek-Thakur07/Stopwatch",
     visit: "https://codesandbox.io/s/github/Abhishek-Thakur07/Stopwatch",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Introduction Portfolio",
     description: "Build using simple HTML and CSS.",
-    image: "/images/Screenshot 2021-08-09 153144.png",
+    image: "/images/Screenshot 2021-08-09 153144.jpg",
     tags: ["HTML", "CSS"],
     source: "https://github.com/Abhishek-Thakur07/CV",
     visit: "https://abhishek-thakur07.github.io/CV/",
